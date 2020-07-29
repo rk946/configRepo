@@ -1,0 +1,8 @@
+my:
+   greeting: Hello from spring-cloud-config-client
+   list.values: one,two,three
+
+db: 
+   Values: spring-cloud-config-client
+   URL: 192.168.X.X
+   port: 3306
