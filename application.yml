@@ -4,5 +4,5 @@ my:
 
 db: 
    Values: "{connectionString : 'http://......',username : 'cdot', password:'pass'}"
-   URL: 192.168.107.214
+   URL: 192.168.X.X
    port: 3306
