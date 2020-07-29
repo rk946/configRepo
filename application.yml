@@ -1,8 +1,8 @@
 my:
-   greeting: Hello(Properties)
+   greeting: Hello from config server app
    list.values: one,two,three
 
 db: 
-   Values: making changes in github repo
+   Values: config server app
    URL: 192.168.X.X
    port: 3306
