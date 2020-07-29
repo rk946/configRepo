@@ -3,6 +3,6 @@ my:
    list.values: one,two,three
 
 db: 
-   Values: "{connectionString : 'http://......',username : 'cdot', password:'pass'}"
+   Values: making changes in github repo
    URL: 192.168.X.X
    port: 3306
